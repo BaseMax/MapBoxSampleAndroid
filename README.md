@@ -1,4 +1,6 @@
-# MapBox Sample Android
+# MapBox
+
+# Map Box Sample Android
 
 Example Map Android application based on **MapBox**.
 
